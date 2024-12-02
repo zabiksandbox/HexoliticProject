@@ -1,15 +1,20 @@
 [submodule "auth-client"]
 	path = auth-client
 	url = git@github.com:zabiksandbox/hex-auth-client.git
+    branch = master
 [submodule "auth-server"]
 	path = auth-server
 	url = git@github.com:zabiksandbox/hex-auth-server.git
+    branch = master
 [submodule "world-client"]
 	path = world-client
 	url = git@github.com:zabiksandbox/hex-world-client.git
+    branch = master
 [submodule "world-server"]
 	path = world-server
 	url = git@github.com:zabiksandbox/hex-world-server.git
+    branch = master
 [submodule "static-server"]
 	path = static-server
 	url = git@github.com:zabiksandbox/hex-static-server.git
+    branch = master
