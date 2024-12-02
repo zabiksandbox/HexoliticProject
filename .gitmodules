@@ -1,0 +1,15 @@
+[submodule "auth-client"]
+	path = auth-client
+	url = .\\auth-client\\
+[submodule "auth-server"]
+	path = auth-server
+	url = .\\auth-server\\
+[submodule "world-client"]
+	path = world-client
+	url = .\\world-client\\
+[submodule "world-server"]
+	path = world-server
+	url = .\\world-server\\
+[submodule "static-server"]
+	path = static-server
+	url = .\\static-server\\
