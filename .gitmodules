@@ -18,3 +18,7 @@
 	path = static-server
 	url = git@github.com:zabiksandbox/hex-static-server.git
     branch = master
+[submodule "blockchain"]
+	path = blockchain
+	url = git@github.com:zabiksandbox/hex-blockchain.git
+    branch = master
